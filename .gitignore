@@ -21,13 +21,17 @@ data/processed/
 .ipynb_checkpoints/
 
 # Теховские файлы
-.tex
-docs/sections/
-docs/img/
+docs/
 *.aux
 *.gz
 *.log
 *.nav
 *.out
 *.snm
+*.tex
+
+docs/sections/
+docs/img/
+
+
 
