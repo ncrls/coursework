@@ -24,9 +24,10 @@ data/processed/
 .tex
 docs/sections/
 docs/img/
-.aux
-.gz
-.log
-.nav
-.out
-.snm
+*.aux
+*.gz
+*.log
+*.nav
+*.out
+*.snm
+
