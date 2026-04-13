@@ -1,0 +1,32 @@
+# Папки с виртуальным окружением
+venv/
+.env
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Папки IDE
+.vscode/
+.idea/
+
+# Данные (если они тяжелые или конфиденциальные)
+data/raw/
+*.xlsx
+
+data/processed/
+*.csv
+
+# Ноутбуки (чекпоинты)
+.ipynb_checkpoints/
+
+# Теховские файлы
+.tex
+docs/sections/
+docs/img/
+.aux
+.gz
+.log
+.nav
+.out
+.snm
