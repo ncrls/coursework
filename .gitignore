@@ -20,18 +20,21 @@ data/processed/
 # Ноутбуки (чекпоинты)
 .ipynb_checkpoints/
 
-# Теховские файлы
-docs/
+# LaTeX (оставляем только PDF и, если нужно, .tex)
 *.aux
+*.fdb_latexmk
+*.fls
 *.gz
 *.log
 *.nav
 *.out
 *.snm
-*.tex
+*.synctex.gz
+*.toc
+*.vrb
 
-docs/sections/
-docs/img/
+# Если вы хотите, чтобы в репозитории лежал ТОЛЬКО PDF, раскомментируйте строку ниже:
+*.tex
 
 
 
