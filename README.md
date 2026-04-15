@@ -19,4 +19,4 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone [https://github.com/ваш-ник/название-репо.git](https://github.com/ваш-ник/название-репо.git)
+   git clone [https://github.com/ncrls/coursework](https://github.com/ncrls/coursework)
